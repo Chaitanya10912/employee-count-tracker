@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "Chaitanya10912/employee-count"
+        IMAGE_NAME = "chaitanya1003/employee-count"
         DOCKERHUB_USER = "yourdockerhubusername"
     }
 
